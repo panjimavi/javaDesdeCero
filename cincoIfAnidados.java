@@ -1,10 +1,10 @@
-package com.mycompany.ifanidados;
+package com.mycompany.cincoifanidados;
 
 /**
  *
  * @author cisco
  */
-public class IfAnidados {
+public class CincoIfAnidados {
 
     public static void main(String[] args) {
         

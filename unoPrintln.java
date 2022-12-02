@@ -1,13 +1,13 @@
-package com.mycompany.primer;
+package com.mycompany.unoprintln;
 
 /**
  * Esta es la manera de crear comentarios en varias lineas
  * @author cisco
  */
 
-// Esta es la manera de crear comentarios en una línea 
+// Esta es la manera de crear comentarios en una línea
 
-public class Primer {
+public class UnoPrintln {
 
     public static void main(String[] args) {
         System.out.println("Empieza nuestro curso en JAVA!");

@@ -1,11 +1,10 @@
-package com.mycompany.dos;
+package com.mycompany.dostipodedatos;
 
 /**
  *
  * @author cisco
  */
- 
-public class Dos {
+public class DosTipoDeDatos {
 
     public static void main(String[] args) {
         
@@ -35,7 +34,7 @@ public class Dos {
         numero2 = 10;
         resultado = numero1 + numero2;
         
-        // System.out.println(resultado);
+        System.out.println(resultado);
 
     }
 }

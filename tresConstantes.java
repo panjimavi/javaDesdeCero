@@ -1,10 +1,10 @@
-package com.mycompany.tres;
+package com.mycompany.tresconstantes;
 
 /**
  *
  * @author cisco
  */
-public class Tres {
+public class TresConstantes {
     
 // Constantes
 static final double PI = 3.1416;

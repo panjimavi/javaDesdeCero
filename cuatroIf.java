@@ -1,10 +1,10 @@
-package com.mycompany.sentencias;
+package com.mycompany.cuatroif;
 
 /**
  *
  * @author cisco
  */
-public class Sentencias {
+public class CuatroIf {
 
     public static void main(String[] args) {
         
